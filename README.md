@@ -29,7 +29,7 @@
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Language
             <ul class="heading">
-                <li style="margin: 0;display: inline-block;padding: 5px">
+                <li style="margin: 0;display: inline;padding: 5px">
                     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
