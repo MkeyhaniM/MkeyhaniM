@@ -23,10 +23,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
- <div>
-    <h2 style="font-family: 'Josefin Sans', sans-serif">Skills</h2>
-    <ul class="main">
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+
+
+<h2 style="font-family: 'Josefin Sans', sans-serif">Skills</h2>
+    <ul >
+        <li>
             Language
             <ul>
                 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
@@ -59,7 +60,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Web development
             <ul>
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -80,10 +81,9 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Database
             <ul>
-
                 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
                     <img
                             src="https://www.mongodb.com/assets/images/global/favicon.ico"
@@ -94,10 +94,9 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Library
             <ul>
-
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -106,7 +105,6 @@
                             height="40"
                     />
                 </a>
-
                 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -115,8 +113,6 @@
                             height="40"
                     />
                 </a>
-
-
                 <a href="https://mui.com" target="_blank" rel="noreferrer">
                     <img
                             src="https://mui.com/static/icons/180x180.png"
@@ -125,7 +121,6 @@
                             height="40"
                     />
                 </a>
-
                 <a href="https://materializecss.com" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
@@ -134,7 +129,6 @@
                             height="40"
                     />
                 </a>
-
                 <a href="https://jquery.com" target="_blank" rel="noreferrer">
                     <img
                             src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"
@@ -145,7 +139,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             version control , Bundle , Toolbox
             <ul>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -156,8 +150,6 @@
                             height="40"
                     />
                 </a>
-
-
                 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -174,7 +166,6 @@
                             height="40"
                     />
                 </a>
-
                 <a href="https://postman.com" target="_blank" rel="noreferrer">
                     <img
                             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -183,10 +174,9 @@
                             height="40"
                     />
                 </a>
-
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Framework
             <ul>
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -207,7 +197,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Progressing css sheet
             <ul>
                 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
@@ -220,7 +210,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Compiler
             <ul>
                 <a href="https://babeljs.io" target="_blank" rel="noreferrer">
@@ -241,7 +231,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             Design
             <ul>
                 <a href="https://www.adobe.com/products/xd.html"
@@ -271,7 +261,7 @@
                 </a>
             </ul>
         </li>
-        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
+        <li>
             System Operation
             <ul>
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -282,9 +272,6 @@
                             height="40"
                     />
                 </a>
-
             </ul>
         </li>
     </ul>
-</div>
-
