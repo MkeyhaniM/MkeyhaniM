@@ -25,10 +25,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
   <div>
     <h2>Skills</h2>
-    <ul class="main">
+    <ul>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Language
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline;padding: 5px">
                     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
                         <img
@@ -67,7 +67,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Web development
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                         <img
@@ -92,7 +92,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Database
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
                         <img
@@ -107,7 +107,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Library
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                         <img
@@ -162,7 +162,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             version control , Bundle , Toolbox
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img
@@ -207,7 +207,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Framework
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                         <img
@@ -232,7 +232,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Progressing css sheet
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                         <img
@@ -247,7 +247,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Compiler
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://babeljs.io" target="_blank" rel="noreferrer">
                         <img
@@ -272,7 +272,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Design
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.adobe.com/products/xd.html"
                        target="_blank"
@@ -308,7 +308,7 @@
         </li>
         <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             System Operation
-            <ul class="heading">
+            <ul style="list-style: none">
                 <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
                         <img
