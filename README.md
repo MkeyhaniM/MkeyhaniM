@@ -19,33 +19,17 @@
 <a href="https://linkedin.com/in/mahyar keyhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahyar keyhani" height="30" width="40" /></a>
 </p>
 
-<style>
-        @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
-    </style>
-    <style>
-        div h2 {
-            font-family: 'Josefin Sans', sans-serif;
-        }
 
-        div ul.main li {
-            font-size: 21px;
-            font-family: 'Josefin Sans', sans-serif;
-            margin: 20px;
-        }
-
-        div ul li ul.heading > li {
-            margin: 0;
-            display: inline-block;
-            padding: 3px;
-        }
-  </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
   <div>
     <h2>Skills</h2>
     <ul class="main">
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Language
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
@@ -55,7 +39,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.php.net" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -65,7 +49,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a
                             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
                             target="_blank"
@@ -81,10 +65,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Web development
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -94,7 +78,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -106,10 +90,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Database
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://www.mongodb.com/assets/images/global/favicon.ico"
@@ -121,10 +105,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Library
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -134,7 +118,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -144,7 +128,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://mui.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://mui.com/static/icons/180x180.png"
@@ -154,7 +138,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://materializecss.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
@@ -164,7 +148,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://jquery.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"
@@ -176,10 +160,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             version control , Bundle , Toolbox
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -189,7 +173,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -199,7 +183,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
@@ -209,7 +193,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://postman.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -221,10 +205,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Framework
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -234,7 +218,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -246,10 +230,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Progressing css sheet
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -261,10 +245,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Compiler
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://babeljs.io" target="_blank" rel="noreferrer">
                         <img
                                 src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -274,7 +258,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://pughtml.com" target="_blank" rel="noreferrer">
                         <img
                                 src="https://camo.githubusercontent.com/96ca2666e419c0e530b1bce3ef33f95283eaf983dbb1e991b4b32d4dbe6c018d/687474703a2f2f7075672e73656c666275696c642e66722f7075672e706e67"
@@ -286,10 +270,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             Design
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.adobe.com/products/xd.html"
                        target="_blank"
                        rel="noreferrer">
@@ -300,7 +284,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -310,7 +294,7 @@
                         />
                     </a>
                 </li>
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -322,10 +306,10 @@
                 </li>
             </ul>
         </li>
-        <li>
+        <li style="font-size: 21px;font-family: 'Josefin Sans', sans-serif;margin: 20px">
             System Operation
             <ul class="heading">
-                <li>
+                <li style="margin: 0;display: inline-block;padding: 5px">
                     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
                         <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -338,6 +322,5 @@
             </ul>
         </li>
     </ul>
-</div>  
-    
+</div>
 
