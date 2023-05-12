@@ -25,7 +25,6 @@
         <li>
             Language
             <ul>
-               
                 <a href="https://www.php.net" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -69,7 +68,6 @@
                 </a>
             </ul>
         </li>
-        
         <li>
             Library
             <ul>
