@@ -25,14 +25,7 @@
         <li>
             Language
             <ul>
-                <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-                    <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-                            alt="ruby"
-                            width="40"
-                            height="40"
-                    />
-                </a>
+               
                 <a href="https://www.php.net" target="_blank" rel="noreferrer">
                     <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -76,19 +69,7 @@
                 </a>
             </ul>
         </li>
-        <li>
-            Database
-            <ul>
-                <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-                    <img
-                            src="https://www.mongodb.com/assets/images/global/favicon.ico"
-                            alt="babel"
-                            width="40"
-                            height="40"
-                    />
-                </a>
-            </ul>
-        </li>
+        
         <li>
             Library
             <ul>
