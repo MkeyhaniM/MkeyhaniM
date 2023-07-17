@@ -3,7 +3,7 @@
 <h3 align="center">A Web-Developer</h3>
 <img align='right' alt='coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1ZWQ0YWI1OWY5ODRmY2UzMDExODdiZmEyNWMyODcxMjNhYzJlZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif' >
 
-- 🌱 I’m currently learning **PWA** ,**Nextjs**
+- 🌱 I’m currently learning **PWA** ,**Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MkeyhaniM?tab=repositories](https://github.com/MkeyhaniM?tab=repositories)
 
