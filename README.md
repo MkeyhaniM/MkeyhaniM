@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MkeyhaniM?tab=repositories](https://github.com/MkeyhaniM?tab=repositories)
 
-- 💬 Ask me about **JavaScript , React , sass**
+- 💬 Ask me about **JavaScript , React , SASS**
 
 - 📫 How to reach me **mkeyhanideve@gmail.com**
 
