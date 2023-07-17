@@ -45,6 +45,11 @@
                             height="40"
                     />
                 </a>
+                <a href='https://www.typescriptlang.org' target="_blank" rel="noreferrer">
+                    <img href='https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae'  alt="typescript"
+                            width="40"
+                            height="40">
+                </a>
             </ul>
         </li>
         <li>
