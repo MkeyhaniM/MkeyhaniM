@@ -8,7 +8,7 @@
 🔭 I’m currently working on my project , that is a chat box<br>👯 I’m looking to collaborate on front-end projects using React and Next.js<br>🌱 I’m currently learning end-to-end test<br>💬 Ask me about React ,  NextJs , Javascript , Typescript<br>⚡ My keyboard shortcuts are faster than my internet connection!
 </div>
 
-
+<br><br><br>
  🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mahyar.keyhanii2) 
 
