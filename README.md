@@ -4,7 +4,7 @@
 <div>
   <img align='right'  style="height:200px; width:300px; margin-top:50px" alt='coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1ZWQ0YWI1OWY5ODRmY2UzMDExODdiZmEyNWMyODcxMjNhYzJlZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif' >
 
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on my project , that is a chat box<br>👯 I’m looking to collaborate on front-end projects using React and Next.js<br>🌱 I’m currently learning end-to-end test<br>💬 Ask me about React ,  NextJs , Javascript , Typescript<br>⚡ My keyboard shortcuts are faster than my internet connection!
 </div>
 
